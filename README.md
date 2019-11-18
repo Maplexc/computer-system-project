@@ -1,13 +1,10 @@
 # computer-system-project
 The project of the computer system (CSSE7021)
 
-Environment
-* Atmel studio environment
-
 This project is C programming for the AVR, requiring to modify a program in order to implement additional features.
 The program is a simple version of Asteroids. 
 The AVR ATmega324A microcontroller runs the program and receives input from a number of sources and outputs a display to an LED display board.
-
+Environment: Atmel studio environment
 
 [source code](https://github.com/Maplexc/computer-system-project/tree/master/project/project)
 
